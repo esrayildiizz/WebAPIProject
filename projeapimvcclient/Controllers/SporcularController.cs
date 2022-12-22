@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using projeapimvcclient.Models;
+using MvcClient.Models;
 using System.Collections.Generic;
 using System.Net.Http;
 
